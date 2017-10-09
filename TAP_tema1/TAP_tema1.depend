@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1507413297 source:c:\users\ana\desktop\tap_tema1\main.cpp
+	<iostream>
+	<vector>
+	"meniu.h"
+
+1507412945 c:\users\ana\desktop\tap_tema1\header.h
+	<unordered_map>
+	<vector>
+	<stdlib.h>
+
+1507413332 c:\users\ana\desktop\tap_tema1\meniu.h
+	<iostream>
+	"header.h"
+
+1507414984 source:c:\users\ana\desktop\facultate\tap\lab\tap_tema1\main.cpp
+	<iostream>
+	<vector>
+	"meniu.h"
+
+1507413363 c:\users\ana\desktop\facultate\tap\lab\tap_tema1\meniu.h
+	<iostream>
+	"header.h"
+
+1507570511 c:\users\ana\desktop\facultate\tap\lab\tap_tema1\header.h
+	<unordered_map>
+	<vector>
+	<stdlib.h>
+
