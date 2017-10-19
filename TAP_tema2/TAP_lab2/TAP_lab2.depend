@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508076809 source:c:\users\ana\desktop\tap_lab2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+
