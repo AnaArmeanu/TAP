@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509116870 source:c:\users\ana\desktop\acoperiref\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1509114808 source:c:\users\ana\desktop\facultate\tap\lab\tema mare1\acoperiref\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

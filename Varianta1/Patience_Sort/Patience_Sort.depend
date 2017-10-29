@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509319980 source:c:\users\ana\desktop\facultate\tap\lab\tema mare1\patience_sort\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<queue>
+	<algorithm>
+

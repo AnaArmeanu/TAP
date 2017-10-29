@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1508967249 source:c:\users\ana\desktop\subsiruri_desc\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+
+1509319670 source:c:\users\ana\desktop\facultate\tap\lab\tema mare1\subsiruri_desc\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+

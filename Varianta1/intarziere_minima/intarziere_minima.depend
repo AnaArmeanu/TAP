@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508708098 source:c:\users\ana\desktop\intarziere_minima\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1509320371 source:c:\users\ana\desktop\facultate\tap\lab\tema mare1\intarziere_minima\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
