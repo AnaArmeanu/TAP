@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511138541 source:c:\users\ana\desktop\puncte_apropiate\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<iomanip>
+	<stdlib.h>
+	<climits>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509982863 source:c:\users\ana\desktop\tema2_1\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

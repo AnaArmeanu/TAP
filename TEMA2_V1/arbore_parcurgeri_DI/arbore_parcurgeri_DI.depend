@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511024861 source:c:\users\ana\desktop\arbore_parcurgeri_di\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+

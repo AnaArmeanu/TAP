@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511113797 source:c:\users\ana\desktop\mediana_di\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
